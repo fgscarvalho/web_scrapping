@@ -111,19 +111,3 @@ def main():
     return my_list
 
 res = main()
-
-
-
-
-
-
-
-
-
-
-
-    
-
-
-
-
